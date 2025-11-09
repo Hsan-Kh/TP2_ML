@@ -69,7 +69,12 @@ pip install -r requirements.txt
 
 ## 👤 Auteur
 
-**Hsan Khecharem**
+**Réalisé par :** Hsan Khecharem
+
+**Filière :** Licence en Sciences de l'Informatique  
+**Spécialité :** Génie Logiciel et Systèmes d'Information  
+**Faculté :** Faculté des Sciences de Sfax
+
 - Email : khecharemhsan@gmail.com
 
 ---
